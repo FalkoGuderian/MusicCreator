@@ -1,6 +1,6 @@
 # 🎵 MusicCreator - Advanced AI Music Composition System
 
-**Generate professional-quality music compositions using multiple AI strategies with seamless continuation, musical structures, and intelligent prompt engineering.**
+**Generate professional-quality music compositions using multiple strategies with seamless continuation, musical structures, and intelligent prompt engineering.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-orange.svg)](https://ffmpeg.org)
