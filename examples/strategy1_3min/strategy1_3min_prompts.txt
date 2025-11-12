@@ -1,0 +1,71 @@
+MusicCreator - Prompts Sent to MusicGPT
+==================================================
+
+Generation Strategy: Sequential
+Base Prompt: Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes
+Total Duration: 180 seconds
+Generated: 2025-11-12 15:14:11
+
+Prompts Sent to MusicGPT:
+-------------------------
+
+Clip 1: CLIP 1/6
+Duration: 30 seconds
+File: clip_01.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 2: CLIP 2/6
+Duration: 30 seconds
+File: clip_02.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes, continuation part 2, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 3: CLIP 3/6
+Duration: 30 seconds
+File: clip_03.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes, continuation part 3, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 4: CLIP 4/6
+Duration: 30 seconds
+File: clip_04.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes, continuation part 4, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 5: CLIP 5/6
+Duration: 30 seconds
+File: clip_05.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes, continuation part 5, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 6: CLIP 6/6
+Duration: 30 seconds
+File: clip_06.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes, continuation part 6, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
