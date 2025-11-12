@@ -107,16 +107,16 @@ Base Prompt → AI Scene Generation → Sliding Window Context → Combined Prom
 
 ### 🎼 Strategy 1: Sequential Generation
 
-#### Generate a 10-Minute Nils Frahm Suite
+#### Generate a 10-Minute Contemporary Classical Suite
 
 ```bash
 python scripts/generate_composition.py \
   --strategy sequential \
-  -p "Contemporary classical piano solo in the style of Nils Frahm, introspective and emotional, with ambient reverb and subtle harmonic complexity, slow tempo, minimalist yet deeply expressive" \
+  -p "Contemporary classical piano solo, introspective and emotional, with ambient reverb and subtle harmonic complexity, slow tempo, minimalist yet deeply expressive" \
   -n 20 \
   -s 30 \
-  -o outputs/nils_frahm_suite \
-  -f nils_frahm_10_minutes.wav
+  -o outputs/contemporary_classical_suite \
+  -f contemporary_classical_10_minutes.wav
 ```
 
 **Result:** 20 clips × 30 seconds = 10-minute seamless composition
@@ -133,7 +133,7 @@ python scripts/generate_composition.py \
   -f ambient_5_minutes.wav
 ```
 
-### 🏗️ Strategy 3: Hierarchical Generation
+### 🏗️ Strategy 2: Hierarchical Generation
 
 #### Create a Song Structure (8 sections)
 
@@ -177,7 +177,7 @@ python scripts/generate_composition.py \
 
 **Structure:** Intro → Main → Outro
 
-### 🤖 Strategy AI: AI-Generated Prompts
+### 🤖 Strategy 3: AI-Generated Prompts
 
 #### AI-Generated Sequential Composition
 
@@ -394,19 +394,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **WebSockets** - Real-time API communication
 
 Creating 20 clips × 30s = 600s total composition
-Base prompt: Contemporary classical piano solo in the style of Nils Frahm...
-Output directory: outputs/nils_frahm_suite
-Final composition: nils_frahm_10_minutes.wav
+Base prompt: Contemporary classical piano solo, introspective and emotional...
+Output directory: outputs/contemporary_classical_suite
+Final composition: contemporary_classical_10_minutes.wav
 
 [SUMMARY] Generated 20/20 clips successfully
 
 [CONCATENATION] SUCCESS!
-Final file: nils_frahm_10_minutes.wav
+Final file: contemporary_classical_10_minutes.wav
 Size: 72.5 MB
 Expected duration: ~600 seconds
 Actual duration: 00:09:59.80
 
-[MP3 CONVERSION] SUCCESS! Created nils_frahm_10_minutes.mp3 (5.2 MB)
+[MP3 CONVERSION] SUCCESS! Created contemporary_classical_10_minutes.mp3 (5.2 MB)
 
 🎵 COMPOSITION COMPLETE!
 Total clips: 20 | Clip duration: 30s each | Total duration: 600s
@@ -415,26 +415,26 @@ Total clips: 20 | Clip duration: 30s each | Total duration: 600s
 
 ### Strategy 1: Sequential Generation
 
-After running the 10-minute Nils Frahm example:
+After running the 10-minute contemporary classical example:
 
 ```
 🎵 STRATEGY 1: Sequential Generation with Continuity
 Creating 20 clips × 30s = 600s total composition
-Base prompt: Contemporary classical piano solo in the style of Nils Frahm...
-Output directory: outputs/nils_frahm_suite
-Final composition: nils_frahm_10_minutes.wav
+Base prompt: Contemporary classical piano solo, introspective and emotional...
+Output directory: outputs/contemporary_classical_suite
+Final composition: contemporary_classical_10_minutes.wav
 
 [SUMMARY] Generated 20/20 clips successfully
 
 [CONCATENATION] SUCCESS!
-Final file: nils_frahm_10_minutes.wav
+Final file: contemporary_classical_10_minutes.wav
 Size: 72.5 MB
 Expected duration: ~600 seconds
 Actual duration: 00:09:59.80
 
-[MP3 CONVERSION] SUCCESS! Created nils_frahm_10_minutes.mp3 (5.2 MB)
+[MP3 CONVERSION] SUCCESS! Created contemporary_classical_10_minutes.mp3 (5.2 MB)
 
-[PROMPTS] Successfully saved prompts to nils_frahm_10_minutes_prompts.txt
+[PROMPTS] Successfully saved prompts to contemporary_classical_10_minutes_prompts.txt
 
 🎵 COMPOSITION COMPLETE!
 Total clips: 20 | Clip duration: 30s each | Total duration: 600s
@@ -442,7 +442,7 @@ Total clips: 20 | Clip duration: 30s each | Total duration: 600s
 
 ### Strategy AI: AI-Generated with Base Prompt + Sliding Window Scenes
 
-After running the AI-generated Nils Frahm composition:
+After running the AI-generated contemporary classical composition:
 
 ```
 🎵 STRATEGY AI: AI-Generated Sequential Prompts
@@ -475,19 +475,19 @@ Strategy: AI-Generated Sequential | Total sections: 3
 ```
 ============================================================
 Creating 20 clips × 30s = 600s total composition
-Base prompt: Contemporary classical piano solo in the style of Nils Frahm...
-Output directory: outputs/nils_frahm_suite
-Final composition: nils_frahm_10_minutes.wav
+Base prompt: Contemporary classical piano solo, introspective and emotional...
+Output directory: outputs/contemporary_classical_suite
+Final composition: contemporary_classical_10_minutes.wav
 
 [SUMMARY] Generated 20/20 clips successfully
 
 [CONCATENATION] SUCCESS!
-Final file: nils_frahm_10_minutes.wav
+Final file: contemporary_classical_10_minutes.wav
 Size: 72.5 MB
 Expected duration: ~600 seconds
 Actual duration: 00:09:59.80
 
-[MP3 CONVERSION] SUCCESS! Created nils_frahm_10_minutes.mp3 (5.2 MB)
+[MP3 CONVERSION] SUCCESS! Created contemporary_classical_10_minutes.mp3 (5.2 MB)
 
 🎵 COMPOSITION COMPLETE!
 Total clips: 20 | Clip duration: 30s each | Total duration: 600s
