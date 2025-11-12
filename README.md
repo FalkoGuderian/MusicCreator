@@ -6,6 +6,9 @@
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-orange.svg)](https://ffmpeg.org)
 [![Docker](https://img.shields.io/badge/Docker-Required-blue.svg)](https://docker.com)
 
+<img width="1043" height="301" alt="image" src="https://github.com/user-attachments/assets/6cc50533-c25a-4cf0-836e-b3778f182411" />
+
+
 ## 🎯 Overview
 
 MusicCreator is a comprehensive AI music generation system featuring three distinct composition strategies:
