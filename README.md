@@ -6,9 +6,6 @@
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-Required-orange.svg)](https://ffmpeg.org)
 [![Docker](https://img.shields.io/badge/Docker-Required-blue.svg)](https://docker.com)
 
-<img width="1043" height="301" alt="image" src="https://github.com/user-attachments/assets/6cc50533-c25a-4cf0-836e-b3778f182411" />
-
-
 ## 🎯 Overview
 
 MusicCreator is a comprehensive AI music generation system featuring three distinct composition strategies:
@@ -110,119 +107,53 @@ Base Prompt → AI Scene Generation → Sliding Window Context → Combined Prom
 
 ### 🎼 Strategy 1: Sequential Generation
 
-#### Generate a 10-Minute Contemporary Classical Suite
+#### Generate a 3-Minute Atmospheric Piano Piece 🔊 [Listen on GitHub](https://github.com/FalkoGuderian/MusicCreator/raw/main/examples/strategy1_3min/strategy1_3min.mp3)
 
 ```bash
 python scripts/generate_composition.py \
   --strategy sequential \
-  -p "Contemporary classical piano solo, introspective and emotional, with ambient reverb and subtle harmonic complexity, slow tempo, minimalist yet deeply expressive" \
-  -n 20 \
+  -p "Atmospheric piano music with gentle melodies, ambient reverb, and emotional depth, evolving slowly with subtle harmonic changes" \
+  -n 6 \
   -s 30 \
-  -o outputs/contemporary_classical_suite \
-  -f contemporary_classical_10_minutes.wav
+  -o examples/strategy1_3min \
+  -f strategy1_3min.wav
 ```
 
-**Result:** 20 clips × 30 seconds = 10-minute seamless composition
-
-#### Create a 5-Minute Ambient Piece
-
-```bash
-python scripts/generate_composition.py \
-  --strategy sequential \
-  -p "Ambient electronic music with deep pads and subtle textures, evolving slowly with gentle transitions" \
-  -n 10 \
-  -s 30 \
-  -o outputs/ambient_dreams \
-  -f ambient_5_minutes.wav
-```
+**Result:** 6 clips × 30 seconds = 3-minute seamless atmospheric composition
 
 ### 🏗️ Strategy 2: Hierarchical Generation
 
-#### Create a Song Structure (8 sections)
+#### Create a 3-Minute Pop Ballad with Song Structure 🔊 [Listen on GitHub](https://github.com/FalkoGuderian/MusicCreator/raw/main/examples/strategy2_3min/strategy2_3min.mp3)
 
 ```bash
 python scripts/generate_composition.py \
   --strategy hierarchical \
   --structure song \
-  -p "Pop ballad with piano and vocals, emotional and melodic" \
-  -s 20 \
-  -o outputs/pop_ballad \
-  -f pop_ballad.wav
+  -p "Melodic pop ballad with piano and gentle vocals, emotional and uplifting" \
+  -s 22 \
+  -o examples/strategy2_3min \
+  -f strategy2_3min.wav
 ```
 
+**Result:** 8 sections × 22 seconds = 3-minute pop ballad with professional song structure
 **Structure:** Intro → Verse 1 → Chorus 1 → Verse 2 → Chorus 2 → Bridge → Chorus 3 → Outro
-
-#### Classical Sonata Form
-
-```bash
-python scripts/generate_composition.py \
-  --strategy hierarchical \
-  --structure classical \
-  -p "Beethoven-style piano sonata" \
-  -s 45 \
-  -o outputs/classical_sonata \
-  -f beethoven_sonata.wav
-```
-
-**Structure:** Exposition → Development → Recapitulation → Coda
-
-#### Simple Three-Part Structure
-
-```bash
-python scripts/generate_composition.py \
-  --strategy hierarchical \
-  --structure simple \
-  -p "Ambient electronic music" \
-  -s 60 \
-  -o outputs/ambient_simple \
-  -f ambient_piece.wav
-```
-
-**Structure:** Intro → Main → Outro
 
 ### 🤖 Strategy 3: AI-Generated Prompts
 
-#### AI-Generated Sequential Composition
+#### Generate a 3-Minute Jazz Fusion Improvisation 🔊 [Listen on GitHub](https://github.com/FalkoGuderian/MusicCreator/raw/main/examples/strategy3_3min/strategy3_3min.mp3)
 
 ```bash
 python scripts/generate_composition.py \
   --strategy ai \
-  -p "Jazz improvisation with saxophone and piano" \
-  -n 8 \
-  -s 15 \
-  -o outputs/jazz_ai \
-  -f jazz_improvisation.wav
+  -p "Jazz fusion with electric piano and saxophone, improvisational and groovy" \
+  -n 9 \
+  -s 20 \
+  -o examples/strategy3_3min \
+  -f strategy3_3min.wav
 ```
 
-**Features:** Sliding window coherence, automatic prompt generation
-
-#### AI-Generated Song with Structure
-
-```bash
-python scripts/generate_composition.py \
-  --strategy ai \
-  --structure song \
-  -p "Rock ballad with electric guitar and drums" \
-  -s 25 \
-  -o outputs/rock_ballad \
-  -f rock_ballad.wav
-```
-
-**Features:** AI creates coherent prompts for each song section
-
-### 🎹 Classical Piano Sonata (AI-Generated)
-
-```bash
-python scripts/generate_composition.py \
-  --strategy ai \
-  --structure simple \
-  -p "Classical piano sonata" \
-  -s 10 \
-  -o outputs/classical_sonata \
-  -f classical_sonata.wav
-```
-
-**Result:** AI generates coherent prompts for intro, main, and outro sections
+**Result:** 9 clips × 20 seconds = 3-minute jazz fusion with AI-generated sliding window coherence
+**Features:** Base prompt + sliding window scenes for maximum musical continuity, AI creates sophisticated scene transitions
 
 ## 📋 Command Line Options
 

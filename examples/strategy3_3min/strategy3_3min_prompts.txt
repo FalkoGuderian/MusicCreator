@@ -1,0 +1,152 @@
+MusicCreator - Prompts Sent to MusicGPT
+==================================================
+
+Generation Strategy: Ai_Sequential
+Base Prompt: Jazz fusion with electric piano and saxophone, improvisational and groovy
+Total Duration: 180 seconds
+Generated: 2025-11-12 14:40:07
+
+Prompts Sent to MusicGPT:
+-------------------------
+
+Clip 1: CLIP 1/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_01.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+No previous scenes (first scene)
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, Begin with a sultry, mid-tempo electric piano ostinato that pulses with urban swing, as the saxophone enters with breathy, improvisational phrases teasing the groovy fusion core.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 2: CLIP 2/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_02.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 1: Begin with a sultry, mid-tempo electric piano ostinato that pulses with urban swing, as the saxophone enters with breathy, improvisational phrases teasing the groovy fusion core.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the sultry ostinato builds tension, the saxophone surges into bold, chromatic runs over the electric piano's syncopated embellishments, shifting the mid-tempo swing to a lively, head-nodding groove with subtle bass undertones emerging.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 3: CLIP 3/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_03.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 1: Begin with a sultry, mid-tempo electric piano ostinato that pulses with urban swing, as the saxophone enters with breathy, improvisational phrases teasing the groovy fusion core.
+Scene 2: As the sultry ostinato builds tension, the saxophone surges into bold, chromatic runs over the electric piano's syncopated embellishments, shifting the mid-tempo swing to a lively, head-nodding groove with subtle bass undertones emerging.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, With the bass now locking into a funky walking line that anchors the lively groove, the electric piano shifts to punchy, Rhodes-infused chord stabs, as the saxophone embarks on a soaring, free-form solo laced with bebop inflections, gradually accelerating the tempo to heighten the improvisational energy.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 4: CLIP 4/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_04.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 2: As the sultry ostinato builds tension, the saxophone surges into bold, chromatic runs over the electric piano's syncopated embellishments, shifting the mid-tempo swing to a lively, head-nodding groove with subtle bass undertones emerging.
+Scene 3: With the bass now locking into a funky walking line that anchors the lively groove, the electric piano shifts to punchy, Rhodes-infused chord stabs, as the saxophone embarks on a soaring, free-form solo laced with bebop inflections, gradually accelerating the tempo to heighten the improvisational energy.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the saxophone's bebop-fueled solo crescendos into ecstatic, multiphonic wails, the electric piano takes the reins with swirling, fusion-tinged ostinatos that interlock with the bass's relentless funk, introducing shimmering cymbal washes to propel the groove into a swirling vortex of improvisational ecstasy.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 5: CLIP 5/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_05.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 3: With the bass now locking into a funky walking line that anchors the lively groove, the electric piano shifts to punchy, Rhodes-infused chord stabs, as the saxophone embarks on a soaring, free-form solo laced with bebop inflections, gradually accelerating the tempo to heighten the improvisational energy.
+Scene 4: As the saxophone's bebop-fueled solo crescendos into ecstatic, multiphonic wails, the electric piano takes the reins with swirling, fusion-tinged ostinatos that interlock with the bass's relentless funk, introducing shimmering cymbal washes to propel the groove into a swirling vortex of improvisational ecstasy.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the improvisational vortex peaks, the saxophone weaves intricate call-and-response phrases with the electric piano's cascading, Herbie Hancock-inspired arpeggios, while the bass and drums tighten into a syncopated fusion breakdown, subtly decelerating the tempo to savor the groovy tension before the next surge.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 6: CLIP 6/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_06.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 4: As the saxophone's bebop-fueled solo crescendos into ecstatic, multiphonic wails, the electric piano takes the reins with swirling, fusion-tinged ostinatos that interlock with the bass's relentless funk, introducing shimmering cymbal washes to propel the groove into a swirling vortex of improvisational ecstasy.
+Scene 5: As the improvisational vortex peaks, the saxophone weaves intricate call-and-response phrases with the electric piano's cascading, Herbie Hancock-inspired arpeggios, while the bass and drums tighten into a syncopated fusion breakdown, subtly decelerating the tempo to savor the groovy tension before the next surge.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the savored tension resolves, the tempo accelerates into a buoyant swing with the saxophone soaring through lyrical, Coltrane-esque sheets of sound over the electric piano's warm, chordal clusters, while the rhythm section injects elastic funk grooves to bridge toward climactic improvisation.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 7: CLIP 7/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_07.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 5: As the improvisational vortex peaks, the saxophone weaves intricate call-and-response phrases with the electric piano's cascading, Herbie Hancock-inspired arpeggios, while the bass and drums tighten into a syncopated fusion breakdown, subtly decelerating the tempo to savor the groovy tension before the next surge.
+Scene 6: As the savored tension resolves, the tempo accelerates into a buoyant swing with the saxophone soaring through lyrical, Coltrane-esque sheets of sound over the electric piano's warm, chordal clusters, while the rhythm section injects elastic funk grooves to bridge toward climactic improvisation.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the elastic funk propels into climactic heights, the saxophone unleashes a torrent of fiery, free-jazz improvisation with blistering multiphonics and rapid scalar runs, while the electric piano counters with angular, dissonant voicings and the rhythm section erupts in polyrhythmic frenzy to sustain the groovy apex before the inevitable descent.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 8: CLIP 8/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_08.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 6: As the savored tension resolves, the tempo accelerates into a buoyant swing with the saxophone soaring through lyrical, Coltrane-esque sheets of sound over the electric piano's warm, chordal clusters, while the rhythm section injects elastic funk grooves to bridge toward climactic improvisation.
+Scene 7: As the elastic funk propels into climactic heights, the saxophone unleashes a torrent of fiery, free-jazz improvisation with blistering multiphonics and rapid scalar runs, while the electric piano counters with angular, dissonant voicings and the rhythm section erupts in polyrhythmic frenzy to sustain the groovy apex before the inevitable descent.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the polyrhythmic frenzy ebbs into a contemplative descent, the saxophone eases into soulful, fragmented phrases with subtle bends and whispers, while the electric piano layers ethereal, Rhodes-tinged arpeggios and the rhythm section settles into a laid-back, syncopated shuffle to evoke a groovy introspection before the final resolution.
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 9: CLIP 9/9 (AI Sliding Window)
+Duration: 20 seconds
+File: clip_09.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Jazz fusion with electric piano and saxophone, improvisational and groovy
+
+Previous scenes for continuity:
+Scene 7: As the elastic funk propels into climactic heights, the saxophone unleashes a torrent of fiery, free-jazz improvisation with blistering multiphonics and rapid scalar runs, while the electric piano counters with angular, dissonant voicings and the rhythm section erupts in polyrhythmic frenzy to sustain the groovy apex before the inevitable descent.
+Scene 8: As the polyrhythmic frenzy ebbs into a contemplative descent, the saxophone eases into soulful, fragmented phrases with subtle bends and whispers, while the electric piano layers ethereal, Rhodes-tinged arpeggios and the rhythm section settles into a laid-back, syncopated shuffle to evoke a groovy introspection before the final resolution.
+
+Current scene: Jazz fusion with electric piano and saxophone, improvisational and groovy, As the groovy introspection resolves into serene closure, the saxophone and electric piano entwine in harmonious, call-and-response phrases with warm, sustained tones and subtle improvisational flourishes, while the rhythm section fades into a gentle, half-time swing to deliver a final, uplifting embrace of fusion tranquility.
+<EndMusicGPT>
+
+--------------------------------------------------
+

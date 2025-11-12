@@ -1,0 +1,92 @@
+MusicCreator - Prompts Sent to MusicGPT
+==================================================
+
+Generation Strategy: Hierarchical
+Musical Structure: SONG
+Base Prompt: Melodic pop ballad with piano and gentle vocals, emotional and uplifting
+Total Duration: 176 seconds
+Generated: 2025-11-12 14:24:52
+
+Prompts Sent to MusicGPT:
+-------------------------
+
+Clip 1: SECTION 1/8 (INTRO: Introduction section)
+Duration: 22 seconds
+File: clip_01.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, introduction section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 2: SECTION 2/8 (VERSE1: First verse section)
+Duration: 22 seconds
+File: clip_02.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, first verse section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 3: SECTION 3/8 (CHORUS1: First chorus section)
+Duration: 22 seconds
+File: clip_03.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, first chorus section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 4: SECTION 4/8 (VERSE2: Second verse section)
+Duration: 22 seconds
+File: clip_04.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, second verse section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 5: SECTION 5/8 (CHORUS2: Second chorus section)
+Duration: 22 seconds
+File: clip_05.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, second chorus section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 6: SECTION 6/8 (BRIDGE: Bridge section)
+Duration: 22 seconds
+File: clip_06.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, bridge section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 7: SECTION 7/8 (CHORUS3: Final chorus section)
+Duration: 22 seconds
+File: clip_07.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, final chorus section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
+Clip 8: SECTION 8/8 (OUTRO: Outro section)
+Duration: 22 seconds
+File: clip_08.wav
+Prompt Sent to MusicGPT:
+<StartMusicGPT>
+Melodic pop ballad with piano and gentle vocals, emotional and uplifting, outro section, maintaining the same emotional depth and style
+<EndMusicGPT>
+
+--------------------------------------------------
+
