@@ -15,9 +15,9 @@ MusicCreator is a comprehensive AI music generation system featuring three disti
 - **🤖 Strategy 3: AI-Generated Prompts** - Intelligent prompt engineering with sliding window coherence
 
 The system produces seamless music pieces of any desired length with automatic prompt documentation and dual-format output.
+<img width="1064" height="257" alt="image" src="https://github.com/user-attachments/assets/3f7f41ca-1e15-4e3a-8d2d-e8786e976c6d" />
 
 ### ✨ Key Features
-<img width="1064" height="257" alt="image" src="https://github.com/user-attachments/assets/3f7f41ca-1e15-4e3a-8d2d-e8786e976c6d" />
 
 - 🎼 **Three Composition Strategies** - Sequential, Hierarchical, and AI-Generated approaches
 - 🏗️ **Predefined Musical Structures** - Song, Classical, Simple forms with proper musical architecture
